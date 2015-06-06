@@ -1,0 +1,16 @@
+{
+  "prefix": "&8[&6MCJailed&8] &e",
+  "moduleEnable": "&aThe Module &8'&e{module}&8' &ais now enabled!",
+  "moduleAlreadyEnabled": "&cThe Module &8'&e{module}&8' &cis already enabled!",
+  "moduleNotFound": "&cThe Module &8'&e{module}&8' &cdoes not exist!",
+  "moduleDisabled": "&cThe Module &8'&e{module}&8' &cis now disabled!",
+  "moduleAlreadyDisabled": "&cThe Module &8'&e{module}&8' &cis already disabled!",
+  "moduleReloaded": "The Module &8'&e{module}&8' &ehas been reloaded!",
+  "invalidArgs": "&cInvalid arguments!",
+  "moduleFormat": "&6Modules &8(&ePage {page}&8/&e{maxpages}&8)&6:",
+  "bulletPoint": "&8-&6] ",
+  "modulesPerPage": 10,
+  "moduleClasses": "{dataFolder}/ModuleClasses",
+  "moduleJars": "{dataFolder}/ModuleJars",
+  "defaultDisabledModules": []
+}

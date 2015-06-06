@@ -1,0 +1,24 @@
+lastAccountName: Goodnubs13
+timestamps:
+  login: 1432952717283
+  lastteleport: 1432953147927
+  logout: 1432953297912
+  jail: 0
+  mute: 0
+ipAddress: 24.179.141.99
+lastlocation:
+  world: world
+  x: -192.28852331694924
+  y: 66.0
+  z: 188.49737335118385
+  yaw: -353.11508
+  pitch: 3.0000217
+logoutlocation:
+  world: world
+  x: -156.4303710977547
+  y: 64.0
+  z: 150.05224605299347
+  yaw: -8.261716
+  pitch: 36.9
+jailed: false
+muted: false

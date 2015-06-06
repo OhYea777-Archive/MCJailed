@@ -1,0 +1,21 @@
+lastAccountName: _Alphabetical_
+timestamps:
+  login: 1432938303541
+  logout: 1432938757032
+  lastteleport: 1432938392677
+ipAddress: 50.148.57.130
+lastlocation:
+  world: world
+  x: -151.59713845004214
+  y: 64.0
+  z: -298.32552556466555
+  yaw: 179.29044
+  pitch: 0.5016911
+logoutlocation:
+  world: world
+  x: -287.0295665469941
+  y: 63.0
+  z: 227.57636506308478
+  yaw: -358.21188
+  pitch: 20.400003
+money: '1415.5'

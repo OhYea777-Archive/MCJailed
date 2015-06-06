@@ -1,0 +1,21 @@
+lastAccountName: Georgie_Girl
+timestamps:
+  login: 1433129301435
+  logout: 1433129699323
+  lastteleport: 1432472445914
+ipAddress: 60.228.251.83
+lastlocation:
+  world: world_the_end
+  x: 1501.8997332132417
+  y: 51.0
+  z: -18.662129436847703
+  yaw: -192.0752
+  pitch: 15.749994
+logoutlocation:
+  world: world
+  x: -70.69999998807907
+  y: 64.0
+  z: 410.4978413119939
+  yaw: 235.93835
+  pitch: 11.700005
+money: '15099.379687500000000032'

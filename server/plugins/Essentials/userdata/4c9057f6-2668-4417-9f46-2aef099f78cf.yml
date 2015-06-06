@@ -1,0 +1,23 @@
+lastAccountName: TheWigglenator
+timestamps:
+  login: 1432163620506
+  logout: 1432163946684
+  lastteleport: 1432086119530
+  jail: 0
+ipAddress: 66.68.250.101
+lastlocation:
+  world: world
+  x: -164.86482032394642
+  y: 7.0
+  z: 347.23106015905444
+  yaw: -275.55234
+  pitch: 2.7867384
+logoutlocation:
+  world: world
+  x: -231.71238117194775
+  y: 50.0
+  z: 216.44031970386317
+  yaw: 271.76233
+  pitch: 26.24178
+money: '204.0415625'
+jailed: false

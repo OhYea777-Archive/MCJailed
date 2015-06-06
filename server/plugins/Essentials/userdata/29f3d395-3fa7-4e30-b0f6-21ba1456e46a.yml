@@ -1,0 +1,22 @@
+lastAccountName: tananis
+timestamps:
+  login: 1432271978093
+  lastteleport: 1432272052910
+  jail: 0
+  logout: 1432273714448
+ipAddress: 68.2.255.244
+lastlocation:
+  world: world
+  x: -192.39661787608327
+  y: 66.0
+  z: 187.6279369929353
+  yaw: 8.008536
+  pitch: 7.2053957
+jailed: false
+logoutlocation:
+  world: world
+  x: -91.35015748116639
+  y: 65.0
+  z: 330.26590421325744
+  yaw: 171.63611
+  pitch: 19.510693

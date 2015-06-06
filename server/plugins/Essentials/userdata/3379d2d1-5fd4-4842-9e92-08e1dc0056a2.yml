@@ -1,0 +1,23 @@
+lastAccountName: rexgray
+timestamps:
+  login: 1433368170915
+  logout: 1433355263808
+  lastteleport: 1433348684407
+  mute: 0
+ipAddress: 50.88.12.138
+lastlocation:
+  world: world
+  x: -239.67796534669645
+  y: 64.0
+  z: 128.3055106958533
+  yaw: 12.702467
+  pitch: -0.3806619
+logoutlocation:
+  world: world
+  x: -320.4681062395431
+  y: 60.0
+  z: 329.1578915156744
+  yaw: 323.46814
+  pitch: 29.935213
+money: '57524.739062500000001606'
+muted: false

@@ -1,0 +1,23 @@
+lastAccountName: ItsYobi
+timestamps:
+  login: 1432447347298
+  logout: 1432447561746
+  lastteleport: 1432447430539
+  jail: 0
+ipAddress: 174.61.151.220
+lastlocation:
+  world: world
+  x: -192.01753565516427
+  y: 67.0
+  z: 189.69999998807907
+  yaw: -291.76196
+  pitch: 59.25
+money: '1608.3'
+logoutlocation:
+  world: world
+  x: -157.1629341945791
+  y: 67.0
+  z: 184.87769986150374
+  yaw: 8.838897
+  pitch: 53.850067
+jailed: false

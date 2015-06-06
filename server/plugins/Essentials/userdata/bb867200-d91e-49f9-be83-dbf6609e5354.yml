@@ -1,0 +1,25 @@
+lastAccountName: Botodd
+timestamps:
+  login: 1432952566345
+  lastteleport: 1432953149878
+  mute: 0
+  jail: 1432953571477
+  logout: 1432953295412
+ipAddress: 24.179.141.99
+lastlocation:
+  world: world
+  x: -155.5185517734161
+  y: 65.0
+  z: 204.9345144101264
+  yaw: 30.862755
+  pitch: 8.9685135
+muted: false
+jailed: true
+logoutlocation:
+  world: world
+  x: -192.5
+  y: 66.0
+  z: 185.5
+  yaw: -74.052444
+  pitch: 3.6247754
+jail: jail

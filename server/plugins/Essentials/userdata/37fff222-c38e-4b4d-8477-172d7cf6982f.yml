@@ -1,0 +1,22 @@
+lastAccountName: TuffBenji
+timestamps:
+  login: 1433402974324
+  lastteleport: 1433236022246
+  logout: 1433406111234
+ipAddress: 101.174.42.144
+lastlocation:
+  world: world
+  x: -274.97420530908056
+  y: 64.0
+  z: 406.2432576594742
+  yaw: 264.64264
+  pitch: 10.800129
+logoutlocation:
+  world: world
+  x: -164.93247435570478
+  y: 7.0
+  z: 355.7898458755971
+  yaw: 261.88956
+  pitch: 5.4002647
+money: '79.4000000000000003'
+afk: false

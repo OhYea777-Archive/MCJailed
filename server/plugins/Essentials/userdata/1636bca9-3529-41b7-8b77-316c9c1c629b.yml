@@ -1,0 +1,25 @@
+lastAccountName: xGunning
+timestamps:
+  login: 1433293754013
+  lastteleport: 1433293878563
+  logout: 1433294676666
+  mute: 0
+  jail: 0
+ipAddress: 107.3.231.217
+lastlocation:
+  world: world
+  x: -239.08009432332105
+  y: 64.0
+  z: 130.60360781360197
+  yaw: -7.695279
+  pitch: -27.79171
+money: '2202.89000000000000002'
+logoutlocation:
+  world: City
+  x: 130.85637971544935
+  y: 70.0
+  z: -948.1043753752292
+  yaw: 86.45679
+  pitch: 4.032348
+muted: false
+jailed: false

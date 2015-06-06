@@ -1,0 +1,24 @@
+lastAccountName: ghost92346
+timestamps:
+  login: 1433370756106
+  logout: 1433280082451
+  lastteleport: 1433280064689
+  kits:
+    starter: 1432272194235
+ipAddress: 167.114.97.16
+lastlocation:
+  world: world
+  x: -160.3391161043246
+  y: 91.72446871873578
+  z: 301.77477666807573
+  yaw: -7.5129538
+  pitch: 23.99999
+money: '7393.0'
+logoutlocation:
+  world: world
+  x: -270.490715707342
+  y: 71.0
+  z: 510.18547536799326
+  yaw: 237.24219
+  pitch: 43.125065
+afk: false

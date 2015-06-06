@@ -1,0 +1,5 @@
+dependencies {
+    provided project(':API')
+    provided project(':ScoreboardManager')
+    provided project(':Core')
+}

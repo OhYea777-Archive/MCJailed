@@ -1,0 +1,7 @@
+{
+  "prefix": "&3[&bClearChat&3] &7",
+  "cleared": "The chat has been cleared!",
+  "noPerm": "&cYou do not have permission to clear the chat!",
+  "numberOfLines": 200,
+  "broadcast": true
+}

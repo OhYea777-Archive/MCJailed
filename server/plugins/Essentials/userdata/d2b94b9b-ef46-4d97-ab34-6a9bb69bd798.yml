@@ -1,0 +1,26 @@
+lastAccountName: shizzle
+timestamps:
+  login: 1433370789325
+  logout: 1433370577928
+  lastteleport: 1433369418424
+  mute: 0
+  jail: 0
+ipAddress: 99.122.44.109
+lastlocation:
+  world: world
+  x: -239.1772518398559
+  y: 64.0
+  z: 129.09388877982303
+  yaw: -8.336873
+  pitch: -17.208979
+money: '285477.1334464999999969060000000000'
+logoutlocation:
+  world: City
+  x: 93.79661836991845
+  y: 62.0
+  z: -889.4854768835689
+  yaw: -273.64194
+  pitch: 28.11599
+muted: false
+socialspy: false
+jailed: false

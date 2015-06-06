@@ -1,0 +1,32 @@
+lastAccountName: DamianKr
+timestamps:
+  login: 1433253617292
+  logout: 1433254150565
+  lastteleport: 1433222338476
+ipAddress: 68.97.16.112
+lastlocation:
+  world: City
+  x: -240.20504537917083
+  y: 49.598995105033985
+  z: 1083.5903848200287
+  yaw: 203.39844
+  pitch: 90.0
+logoutlocation:
+  world: world_the_end
+  x: 1500.4899448997135
+  y: 57.0
+  z: 4.285647937961178
+  yaw: -223.06158
+  pitch: 62.699913
+money: '366.05'
+homes:
+  home:
+    world: world_the_end
+    x: 1500.4635299484444
+    y: 54.0
+    z: 4.472806922898346
+    yaw: -56.111572
+    pitch: 16.949917
+afk: false
+powertools: {}
+godmode: false

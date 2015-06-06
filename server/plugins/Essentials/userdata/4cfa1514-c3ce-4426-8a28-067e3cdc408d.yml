@@ -1,0 +1,23 @@
+lastAccountName: dagr8almighty
+timestamps:
+  login: 1433293865844
+  logout: 1433294319016
+  lastteleport: 1433293868195
+ipAddress: 74.75.173.22
+lastlocation:
+  world: City
+  x: 116.5
+  y: 85.0
+  z: -943.5
+  yaw: 84.58969
+  pitch: 85.20368
+afk: false
+logoutlocation:
+  world: world
+  x: -274.5
+  y: 64.0
+  z: 509.5
+  yaw: 269.86777
+  pitch: -1.3500073
+socialspy: true
+money: '-2303'

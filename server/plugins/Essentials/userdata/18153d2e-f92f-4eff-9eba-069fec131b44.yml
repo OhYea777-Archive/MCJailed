@@ -1,0 +1,23 @@
+lastAccountName: OhYea777
+timestamps:
+  login: 1433407609569
+  logout: 1433407730863
+  lastteleport: 1433407008028
+ipAddress: 130.217.182.165
+lastlocation:
+  world: world
+  x: 104.88669568729742
+  y: 82.0
+  z: 287.30191654159665
+  yaw: 159.2998
+  pitch: 48.44985
+logoutlocation:
+  world: world
+  x: -148.10196384685446
+  y: 102.0
+  z: 142.6102241619392
+  yaw: 64.6382
+  pitch: 34.04999
+money: '1.0'
+afk: false
+socialspy: true

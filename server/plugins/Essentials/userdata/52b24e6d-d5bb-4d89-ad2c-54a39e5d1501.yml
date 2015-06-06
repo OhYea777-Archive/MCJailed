@@ -1,0 +1,21 @@
+lastAccountName: robo109
+timestamps:
+  login: 1433210335036
+  lastteleport: 1433214496878
+  logout: 1433214516197
+ipAddress: 184.63.40.69
+lastlocation:
+  world: world
+  x: -67.5156722939119
+  y: 64.0
+  z: 65.49131039023524
+  yaw: 2.838374
+  pitch: 7.3500113
+money: '1510.9'
+logoutlocation:
+  world: world
+  x: -98.45139915513215
+  y: 65.0
+  z: 243.4055492429915
+  yaw: -20.261745
+  pitch: 44.700005

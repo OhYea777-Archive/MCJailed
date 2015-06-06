@@ -1,0 +1,145 @@
+BlockD:
+  options:
+    ranks_display_order: 1
+    last_rank: false
+    rank_prefix: '&8[&cBlockD&8]'
+    allow_reset: false
+    reset_cost: '0'
+    reset_commands:
+    - ezbroadcast %player% reset their rank to Guest!
+    - ezmsg You will need to start over!!
+    - pex user %player% group set Guest
+    - clearinventory %player%
+  BlockC:
+    active: true
+    confirm_to_rankup: true
+    rankup_prefix: '&8[&bBlockC&8]'
+    cost: '15000'
+    requirement_message:
+    - Your current rank is %rankfrom%
+    - You need $%cost% to rank up to %rankto%
+    - Your balance is $%balance%
+    rankup_commands:
+    - ezbroadcast %player% ranked up to %rankto%!
+    - ezmsg &eCongrats on your rankup!
+    - ezmsg enjoy the fireworks!
+    - ezeffect fireworks
+    - spawn %player%
+    - pex user %player% group add %rankto%
+    - pex user %player% group remove %rankfrom%
+BlockC:
+  options:
+    ranks_display_order: 2
+    last_rank: false
+    rank_prefix: '&8[&cBlockC&8]'
+    allow_reset: false
+    reset_cost: '0'
+    reset_commands:
+    - ezbroadcast %player% reset their rank to Guest!
+    - ezmsg You will need to start over!!
+    - pex user %player% group set Guest
+    - clearinventory %player%
+  BlockB:
+    active: true
+    confirm_to_rankup: true
+    rankup_prefix: '&8[&bBlockB&8]'
+    cost: '40000'
+    requirement_message:
+    - Your current rank is %rankfrom%
+    - You need $%cost% to rank up to %rankto%
+    - Your balance is $%balance%
+    rankup_commands:
+    - ezbroadcast %player% ranked up to %rankto%!
+    - ezmsg &eCongrats on your rankup!
+    - ezmsg enjoy the fireworks!
+    - ezeffect fireworks
+    - spawn %player%
+    - pex user %player% group add %rankto%
+    - pex user %player% group remove %rankfrom%
+BlockB:
+  options:
+    ranks_display_order: 3
+    last_rank: false
+    rank_prefix: '&8[&cBlockB&8]'
+    allow_reset: false
+    reset_cost: '0'
+    reset_commands:
+    - ezbroadcast %player% reset their rank to Guest!
+    - ezmsg You will need to start over!!
+    - pex user %player% group set Guest
+    - clearinventory %player%
+  BlockA:
+    active: true
+    confirm_to_rankup: true
+    rankup_prefix: '&8[&bBlockA&8]'
+    cost: '100000'
+    requirement_message:
+    - Your current rank is %rankfrom%
+    - You need $%cost% to rank up to %rankto%
+    - Your balance is $%balance%
+    rankup_commands:
+    - ezbroadcast %player% ranked up to %rankto%!
+    - ezmsg &eCongrats on your rankup!
+    - ezmsg enjoy the fireworks!
+    - ezeffect fireworks
+    - spawn %player%
+    - pex user %player% group add %rankto%
+    - pex user %player% group remove %rankfrom%
+BlockA:
+  options:
+    ranks_display_order: 4
+    last_rank: false
+    rank_prefix: '&8[&cBlockA&8]'
+    allow_reset: false
+    reset_cost: '0'
+    reset_commands:
+    - ezbroadcast %player% reset their rank to Guest!
+    - ezmsg You will need to start over!!
+    - pex user %player% group set Guest
+    - clearinventory %player%
+  Probation:
+    active: true
+    confirm_to_rankup: true
+    rankup_prefix: '&8[&bProbation&8]'
+    cost: '250000'
+    requirement_message:
+    - Your current rank is %rankfrom%
+    - You need $%cost% to rank up to %rankto%
+    - Your balance is $%balance%
+    rankup_commands:
+    - ezbroadcast %player% ranked up to %rankto%!
+    - ezmsg &eCongrats on your rankup!
+    - ezmsg enjoy the fireworks!
+    - ezeffect fireworks
+    - spawn %player%
+    - pex user %player% group add %rankto%
+    - pex user %player% group remove %rankfrom%
+Probation:
+  options:
+    ranks_display_order: 5
+    last_rank: false
+    rank_prefix: '&8[&cProbation&8]'
+    allow_reset: false
+    reset_cost: '0'
+    reset_commands:
+    - ezbroadcast %player% reset their rank to Guest!
+    - ezmsg You will need to start over!!
+    - pex user %player% group set Guest
+    - clearinventory %player%
+  free:
+    active: true
+    confirm_to_rankup: true
+    rankup_prefix: '&8[&bfree&8]'
+    cost: '600000'
+    requirement_message:
+    - Your current rank is %rankfrom%
+    - You need $%cost% to rank up to %rankto%
+    - Your balance is $%balance%
+    rankup_commands:
+    - ezbroadcast %player% ranked up to %rankto%!
+    - ezmsg &eCongrats on your rankup!
+    - ezmsg enjoy the fireworks!
+    - ezeffect fireworks
+    - spawn %player%
+    - pex user %player% group add %rankto%
+    - pex user %player% group remove %rankfrom%

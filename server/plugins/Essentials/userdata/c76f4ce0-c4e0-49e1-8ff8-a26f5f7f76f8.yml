@@ -1,0 +1,21 @@
+lastAccountName: ROBB_
+timestamps:
+  login: 1432311960911
+  mute: 1432313101437
+  logout: 1432312825241
+ipAddress: 124.171.52.185
+lastlocation:
+  world: world
+  x: -160.46421402329855
+  y: 38.0
+  z: -222.02648370739325
+  yaw: 177.74133
+  pitch: 7.650009
+muted: true
+logoutlocation:
+  world: world
+  x: -148.62242731342235
+  y: 65.0
+  z: 185.36419953591465
+  yaw: 267.28824
+  pitch: 12.900001

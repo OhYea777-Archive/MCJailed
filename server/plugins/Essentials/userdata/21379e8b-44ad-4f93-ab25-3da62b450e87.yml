@@ -1,0 +1,27 @@
+lastAccountName: alf20682068
+timestamps:
+  login: 1433287019950
+  logout: 1433287043055
+  lastteleport: 1433210201512
+  jail: 0
+  mute: 0
+ipAddress: 67.149.227.252
+lastlocation:
+  world: world
+  x: -141.67298241359913
+  y: 57.0
+  z: 53.702490561393056
+  yaw: -93.84389
+  pitch: 1.1406313
+logoutlocation:
+  world: world
+  x: -156.68132441126133
+  y: 65.0
+  z: 197.15559738306408
+  yaw: 354.18503
+  pitch: -3.359877
+money: '3600.353562500001003026'
+jailed: false
+muted: false
+mail:
+- §6[§rExzely§6] §rhttps://plug.dj/mcjailed

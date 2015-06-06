@@ -1,0 +1,25 @@
+lastAccountName: TWIZILLERHAT
+timestamps:
+  login: 1433093815261
+  logout: 1433093979504
+  lastteleport: 1432939943911
+  jail: 0
+  mute: 0
+ipAddress: 166.176.121.159
+lastlocation:
+  world: world
+  x: -156.4884175710468
+  y: 7.0
+  z: 356.0588161306646
+  yaw: -1.1802964
+  pitch: 5.056767
+logoutlocation:
+  world: world
+  x: -244.39241885460433
+  y: 65.0
+  z: 239.10426562236017
+  yaw: 258.906
+  pitch: 20.543495
+money: '0.221875000000000027'
+jailed: false
+muted: false

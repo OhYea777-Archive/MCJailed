@@ -1,0 +1,23 @@
+lastAccountName: AdrianRamon
+timestamps:
+  login: 1433287608676
+  logout: 1433287625730
+  jail: 0
+  lastteleport: 1433198646096
+ipAddress: 66.68.250.186
+lastlocation:
+  world: world
+  x: -151.33654137904335
+  y: 65.0
+  z: 148.86723600047117
+  yaw: 296.83945
+  pitch: -28.949932
+money: '1702.6000000000000002'
+logoutlocation:
+  world: world
+  x: -149.076141589105
+  y: 65.0
+  z: -279.9109649656569
+  yaw: -5.5617642
+  pitch: 16.949978
+jailed: false

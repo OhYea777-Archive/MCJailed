@@ -1,0 +1,26 @@
+lastAccountName: Savoygrill
+timestamps:
+  login: 1433341355492
+  lastteleport: 1433187895934
+  mute: 0
+  logout: 1433341362550
+  jail: 0
+ipAddress: 81.140.179.1
+lastlocation:
+  world: world
+  x: -258.6811255371934
+  y: 64.0
+  z: 511.9567688480705
+  yaw: 16.954157
+  pitch: -16.25038
+money: '6233.00812499998799989000000000000'
+muted: false
+logoutlocation:
+  world: world
+  x: -187.48564856512655
+  y: 64.0
+  z: 527.9564086293791
+  yaw: -129.34105
+  pitch: 15.402705
+jailed: false
+socialspy: false

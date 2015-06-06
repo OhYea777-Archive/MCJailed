@@ -1,0 +1,23 @@
+lastAccountName: Skerrum
+timestamps:
+  login: 1432941609377
+  logout: 1432942894862
+  lastteleport: 1432859503141
+  jail: 0
+ipAddress: 66.68.250.101
+lastlocation:
+  world: world
+  x: -64.14212815820378
+  y: 65.0
+  z: 235.3833244434722
+  yaw: 96.16162
+  pitch: 2.8500252
+jailed: false
+logoutlocation:
+  world: world
+  x: -63.84245522216159
+  y: 65.0
+  z: 234.79550927183763
+  yaw: 86.56128
+  pitch: 1.3500053
+money: '1891.687500000000000453'

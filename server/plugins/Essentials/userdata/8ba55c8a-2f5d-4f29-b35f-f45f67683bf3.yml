@@ -1,0 +1,20 @@
+lastAccountName: sensei17763
+timestamps:
+  login: 1432335919689
+  logout: 1432336273670
+ipAddress: 12.227.112.175
+lastlocation:
+  world: world
+  x: -159.9624675740258
+  y: 38.0
+  z: -222.52258572378895
+  yaw: 160.83112
+  pitch: 8.259183
+logoutlocation:
+  world: world
+  x: -290.47971802485864
+  y: 65.0
+  z: 220.01349510086405
+  yaw: 178.00598
+  pitch: 34.03184
+money: '111.0'

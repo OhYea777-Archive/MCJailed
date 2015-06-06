@@ -1,0 +1,23 @@
+lastAccountName: NeonWanderer
+timestamps:
+  login: 1433355919858
+  logout: 1433356304265
+  jail: 0
+  lastteleport: 1433191075778
+ipAddress: 86.146.24.147
+lastlocation:
+  world: world
+  x: -147.58522494999983
+  y: 7.0
+  z: 348.2265322576691
+  yaw: -100.97119
+  pitch: 7.465838
+logoutlocation:
+  world: world
+  x: -156.38115156554474
+  y: 64.0
+  z: 538.3126075765681
+  yaw: -3.9489157
+  pitch: 33.651367
+money: '4992.397190500000000345'
+jailed: false

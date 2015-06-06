@@ -1,0 +1,22 @@
+lastAccountName: CuMiner
+timestamps:
+  login: 1433361281701
+  logout: 1433361285953
+  mute: 0
+  lastteleport: 1432963810450
+ipAddress: 73.183.142.251
+lastlocation:
+  world: City
+  x: 112.57499998807907
+  y: 63.197652222997924
+  z: -880.5763814146331
+  yaw: -189.05595
+  pitch: -21.379515
+logoutlocation:
+  world: world
+  x: -221.6877014074652
+  y: 65.0
+  z: 238.64975984452886
+  yaw: -99.17855
+  pitch: 4.189471
+muted: false

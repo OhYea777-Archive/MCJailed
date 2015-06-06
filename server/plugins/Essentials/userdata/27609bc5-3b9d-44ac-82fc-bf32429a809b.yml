@@ -1,0 +1,25 @@
+lastAccountName: x_doodle_x
+timestamps:
+  login: 1433052767570
+  logout: 1433052867504
+  lastteleport: 1432943078301
+  jail: 0
+  mute: 0
+ipAddress: 110.146.199.253
+lastlocation:
+  world: world
+  x: -350.7966876738995
+  y: 65.0
+  z: 353.24073916422446
+  yaw: 145.79994
+  pitch: 8.250077
+logoutlocation:
+  world: world
+  x: -166.9152982858031
+  y: 66.0
+  z: 195.0858507859273
+  yaw: 79.78818
+  pitch: 9.149973
+money: '0.00531250000000001'
+jailed: false
+muted: false

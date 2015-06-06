@@ -1,0 +1,25 @@
+lastAccountName: alf2068
+timestamps:
+  login: 1433367084029
+  logout: 1433367100887
+  jail: 0
+  lastteleport: 1433347823646
+  mute: 0
+ipAddress: 67.149.227.252
+lastlocation:
+  world: City
+  x: 154.61290751350643
+  y: 64.0
+  z: -993.8467927405267
+  yaw: 32.054325
+  pitch: 1.0978353
+money: '187704.278125000000000031'
+logoutlocation:
+  world: City
+  x: 82.08660548366167
+  y: 65.0
+  z: -891.7595940256529
+  yaw: 130.5567
+  pitch: 32.592937
+jailed: false
+muted: false

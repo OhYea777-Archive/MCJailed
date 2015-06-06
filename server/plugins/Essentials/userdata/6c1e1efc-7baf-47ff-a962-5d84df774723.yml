@@ -1,0 +1,24 @@
+lastAccountName: Exzely
+timestamps:
+  login: 1433370318260
+  logout: 1433306876063
+  lastteleport: 1433291312368
+  jail: 0
+ipAddress: 68.146.151.113
+lastlocation:
+  world: City
+  x: 160.93227100277227
+  y: 64.0
+  z: -992.3000000119209
+  yaw: -91.45444
+  pitch: 4.636844
+logoutlocation:
+  world: City
+  x: 131.34914510953723
+  y: 77.0
+  z: -966.2798772466394
+  yaw: 85.820564
+  pitch: 35.042233
+money: '15804.380739000000000101'
+nickname: §fExzely
+jailed: false

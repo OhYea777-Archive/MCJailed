@@ -1,0 +1,22 @@
+lastAccountName: tbrooks23
+timestamps:
+  login: 1433004035003
+  jail: 0
+  lastteleport: 1432685619929
+  logout: 1433004038103
+ipAddress: 107.147.2.77
+lastlocation:
+  world: world
+  x: -67.30493810983694
+  y: 64.0
+  z: 65.33697344547423
+  yaw: -184.66153
+  pitch: 3.9000087
+jailed: false
+logoutlocation:
+  world: world
+  x: -159.61261943592854
+  y: 65.0
+  z: 253.90411797955352
+  yaw: -193.96147
+  pitch: -6.300009

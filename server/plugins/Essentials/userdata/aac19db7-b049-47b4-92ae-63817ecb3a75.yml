@@ -1,0 +1,20 @@
+lastAccountName: psparaco
+timestamps:
+  login: 1431862501473
+  logout: 1431863830969
+ipAddress: 69.138.201.107
+lastlocation:
+  world: world
+  x: -160.35148216585193
+  y: 38.0
+  z: -222.79794866063725
+  yaw: -182.76434
+  pitch: 6.4905705
+logoutlocation:
+  world: world
+  x: -156.89528556540887
+  y: 65.0
+  z: 202.12467141307428
+  yaw: -359.27136
+  pitch: 8.368082
+money: '672.0'

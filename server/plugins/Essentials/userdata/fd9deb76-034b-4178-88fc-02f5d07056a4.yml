@@ -1,0 +1,20 @@
+lastAccountName: AliceIsFabulous
+timestamps:
+  login: 1432805831620
+  logout: 1432806029404
+ipAddress: 31.54.50.250
+lastlocation:
+  world: world
+  x: -159.47683985577848
+  y: 38.0
+  z: -221.35197365051198
+  yaw: -196.1817
+  pitch: 2.9513001
+money: '0.1'
+logoutlocation:
+  world: world
+  x: -222.7814350057808
+  y: 62.0
+  z: 252.8656055059436
+  yaw: 234.483
+  pitch: 21.331974

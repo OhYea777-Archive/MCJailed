@@ -1,0 +1,22 @@
+lastAccountName: R10soccer
+timestamps:
+  login: 1431923589097
+  lastteleport: 1431741189364
+  logout: 1431923703715
+  mute: 0
+ipAddress: 45.50.11.10
+lastlocation:
+  world: world
+  x: -157.0867614985681
+  y: 7.0
+  z: 338.83126358631506
+  yaw: -169.02435
+  pitch: -2.0830755
+logoutlocation:
+  world: world
+  x: -199.01777711566882
+  y: 65.0
+  z: 238.3400378101748
+  yaw: -251.6642
+  pitch: -2.9275177
+muted: false

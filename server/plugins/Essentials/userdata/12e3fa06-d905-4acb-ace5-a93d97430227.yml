@@ -1,0 +1,27 @@
+lastAccountName: Anti_Nana
+timestamps:
+  login: 1433369821692
+  logout: 1433369572413
+  kits:
+    guard: 1431685993410
+  lastteleport: 1433368482010
+  jail: 0
+ipAddress: 65.75.106.75
+lastlocation:
+  world: world
+  x: -262.05025865822915
+  y: 64.0
+  z: 514.1445299446234
+  yaw: 302.26776
+  pitch: -2.1002197
+logoutlocation:
+  world: world
+  x: -182.84691077032423
+  y: 64.0
+  z: 520.2887844390508
+  yaw: 131.53806
+  pitch: 31.949968
+nickname: §fAnti_Nana
+money: '26875.017178400010000101'
+jailed: false
+socialspy: false

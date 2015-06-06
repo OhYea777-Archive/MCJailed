@@ -1,0 +1,23 @@
+lastAccountName: coolkidshere11
+timestamps:
+  login: 1432950024719
+  lastteleport: 1432426403930
+  logout: 1432950560845
+  jail: 0
+ipAddress: 71.103.84.215
+lastlocation:
+  world: world
+  x: -148.75522654941093
+  y: 7.0
+  z: 347.0644065496767
+  yaw: -80.34715
+  pitch: 2.443826
+money: '34215.0084375'
+logoutlocation:
+  world: world
+  x: -156.78865610449986
+  y: 65.0
+  z: 201.77989956350888
+  yaw: -5.0825195
+  pitch: 6.4506807
+jailed: false

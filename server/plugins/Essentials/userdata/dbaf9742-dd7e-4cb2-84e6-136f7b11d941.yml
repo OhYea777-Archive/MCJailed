@@ -1,0 +1,27 @@
+lastAccountName: slharris762
+timestamps:
+  login: 1433279992659
+  logout: 1433280235089
+  lastteleport: 1433280060588
+  kits:
+    warden: 1432002425002
+    pvp: 1433202283670
+ipAddress: 159.118.191.248
+lastlocation:
+  world: world
+  x: -163.05089259801335
+  y: 89.12038828873153
+  z: 261.2133859261465
+  yaw: 359.537
+  pitch: 7.9499526
+logoutlocation:
+  world: world
+  x: -163.82147332625803
+  y: 81.46037467178303
+  z: 236.82033063002808
+  yaw: -2.1577759
+  pitch: 16.425117
+afk: false
+powertools: {}
+socialspy: true
+godmode: true

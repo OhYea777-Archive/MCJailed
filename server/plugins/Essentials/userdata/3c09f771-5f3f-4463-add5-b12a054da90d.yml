@@ -1,0 +1,21 @@
+lastAccountName: STS_Elite
+timestamps:
+  login: 1432859897901
+  logout: 1432861989104
+  lastteleport: 1432861548774
+ipAddress: 108.232.36.16
+lastlocation:
+  world: world
+  x: -239.5780881954128
+  y: 64.0
+  z: 129.4779124209893
+  yaw: -2.4075012
+  pitch: -20.100035
+logoutlocation:
+  world: world
+  x: 52.18890649527895
+  y: 44.0
+  z: 348.69999998807907
+  yaw: -21.761353
+  pitch: 0.8999951
+money: '825.192187500000000311'

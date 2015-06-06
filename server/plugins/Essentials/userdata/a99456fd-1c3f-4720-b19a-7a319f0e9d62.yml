@@ -1,0 +1,25 @@
+lastAccountName: pok3mon1
+timestamps:
+  login: 1433202439867
+  logout: 1433203321460
+  lastteleport: 1433203273580
+  mute: 0
+  jail: 0
+ipAddress: 76.169.24.128
+lastlocation:
+  world: City
+  x: 113.62812873532086
+  y: 73.23152379758702
+  z: -944.8352770028605
+  yaw: -2.9910214
+  pitch: 27.270515
+logoutlocation:
+  world: world
+  x: -151.27301385552175
+  y: 66.0
+  z: 486.080526064615
+  yaw: -92.74893
+  pitch: 21.372133
+money: '422.003125100000000022'
+muted: false
+jailed: false

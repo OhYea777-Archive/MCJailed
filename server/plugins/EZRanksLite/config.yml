@@ -1,0 +1,67 @@
+# EZRanksLite version: 1.6.2.5 Main Configuration
+debug: false
+hooks:
+  use_SQLPerms: false
+server_name: McJailed
+ranks:
+  enabled: true
+  format_has_access: '&a%rankfrom% &bto &a%rankto%  &bcost: &f%cost%'
+  format_no_access: '&7%rankfrom% &cto &7%rankto%  &ccost: &7%cost%'
+  format_last_rank: '&7%rankfrom%: &cLast rank!'
+  header:
+  - none
+  footer:
+  - none
+rankup_cooldown:
+  enabled: true
+  time: 5
+scoreboard:
+  enabled: false
+  refresh_time: 30
+  title: '&cScoreboard'
+  display:
+  - '&cCurrent Rank:'
+  - '%rankfrom%'
+  - blank
+  - '&c/rankup:'
+  - '%rankto%'
+  - blank
+  - '&cCost:'
+  - '&a$&f%cost%'
+  - '&cBalance:'
+  - '&a$&f%balance%'
+  no_rankups: '&cnone'
+  can_rankup: '&a/rankup'
+  progress_bar:
+    bar_color: '&a'
+    needs_color: '&8'
+    end_color: '&f&l'
+    left_character: ┃
+    bar_character: ':'
+    right_character: ┃
+  disabled_worlds:
+  - world_nether
+  - world_the_end
+staff_scoreboard:
+  enabled: true
+  title: '&cStaff'
+  display:
+  - '&cPlayers online:'
+  - '%onlineplayers%/%onlinemax%'
+  - blank
+  - '&cStaff online:'
+  - '%onlinestaff%'
+  - blank
+  - '&cTPS:'
+  - '&a%tps%'
+  - '&cPing:'
+  - '&a%ping%'
+money:
+  fix_thousands: true
+  fix_millions: true
+  thousands_format: k
+  millions_format: M
+  billions_format: B
+  trillions_format: T
+  quadrillions_format: Q
+check_updates: true

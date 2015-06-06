@@ -1,0 +1,22 @@
+lastAccountName: alf206820682O68
+timestamps:
+  login: 1432413259617
+  logout: 1432413690491
+  jail: 0
+ipAddress: 67.149.227.252
+lastlocation:
+  world: world
+  x: -186.86250001192093
+  y: 67.0
+  z: 184.308463522733
+  yaw: -77.150154
+  pitch: 11.746635
+logoutlocation:
+  world: world
+  x: -160.5
+  y: 65.0
+  z: 250.5
+  yaw: -84.26955
+  pitch: 8.286297
+money: '0.004687500000000007'
+jailed: false

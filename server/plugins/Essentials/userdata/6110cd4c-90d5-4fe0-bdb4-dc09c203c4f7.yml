@@ -1,0 +1,41 @@
+lastAccountName: Squirtgiant
+timestamps:
+  login: 1433120544682
+  logout: 1433125889840
+  lastteleport: 1433125832971
+ipAddress: 63.153.95.146
+lastlocation:
+  world: world
+  x: -156.2037270594631
+  y: 70.65280932124622
+  z: 556.0504514980952
+  yaw: -1.6986389
+  pitch: 33.455994
+logoutlocation:
+  world: world
+  x: -160.69999998807907
+  y: 68.9177548749768
+  z: 519.6999999880791
+  yaw: 11.010374
+  pitch: 55.167812
+money: '0.01'
+powertools:
+  '13':
+  - kittycannon
+  '320':
+  - s pok3mon1
+  '391':
+  - fly pok3mon1
+  '1':
+  - spawnmob villager 20
+godmode: false
+afk: false
+homes:
+  home:
+    world: world_nether
+    x: 165.5
+    y: 131.0
+    z: -42.5
+    yaw: -285.7505
+    pitch: 16.500036
+socialspy: true

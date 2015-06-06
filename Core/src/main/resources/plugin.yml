@@ -1,0 +1,8 @@
+name: MCJailed
+version: 1.0
+authors: [OhYea777]
+main: com.mcjailed.MCJailedCore
+
+commands:
+  modules:
+    aliases: []

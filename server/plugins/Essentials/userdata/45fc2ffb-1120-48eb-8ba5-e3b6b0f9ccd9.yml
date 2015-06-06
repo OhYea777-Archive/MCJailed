@@ -1,0 +1,20 @@
+lastAccountName: rapidfireman
+timestamps:
+  login: 1433244542737
+  lastteleport: 1433244650172
+  logout: 1433244719370
+ipAddress: 100.11.94.30
+lastlocation:
+  world: world
+  x: -239.44291797592382
+  y: 64.0
+  z: 128.63462907589843
+  yaw: -18.007435
+  pitch: 3.89998
+logoutlocation:
+  world: world
+  x: -99.19106260630063
+  y: 65.0
+  z: 243.51314323961608
+  yaw: 332.68805
+  pitch: -1.1999806

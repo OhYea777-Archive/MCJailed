@@ -1,0 +1,21 @@
+lastAccountName: Herobro
+timestamps:
+  login: 1432865537531
+  logout: 1432865544932
+  lastteleport: 1432850307363
+ipAddress: 68.229.220.16
+lastlocation:
+  world: world
+  x: -151.10809665083528
+  y: 65.0
+  z: 150.148029389577
+  yaw: -92.26172
+  pitch: 5.699999
+logoutlocation:
+  world: world
+  x: -57.11003669273891
+  y: 65.0
+  z: -206.96048133057158
+  yaw: 112.63796
+  pitch: 13.949975
+money: '360.0'

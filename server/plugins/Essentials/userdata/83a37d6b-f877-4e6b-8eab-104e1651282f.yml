@@ -1,0 +1,29 @@
+lastAccountName: Icekool594
+timestamps:
+  login: 1433370650116
+  logout: 1433370790575
+  lastteleport: 1433288802037
+  kits:
+    prguard: 1432080485428
+    riot: 1431732486158
+    guardfood: 1431833333855
+  jail: 0
+  mute: 0
+ipAddress: 99.122.44.109
+lastlocation:
+  world: world
+  x: -141.11320148013715
+  y: 57.0
+  z: 54.364282110809015
+  yaw: -109.527565
+  pitch: 6.287761
+logoutlocation:
+  world: world
+  x: -158.6067622576293
+  y: 65.0
+  z: 177.97297102437273
+  yaw: -274.54404
+  pitch: 22.41945
+jailed: false
+money: '0.009997'
+muted: false

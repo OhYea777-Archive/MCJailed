@@ -1,0 +1,21 @@
+lastAccountName: Link798
+timestamps:
+  login: 1433126626930
+  lastteleport: 1433126368033
+  logout: 1433127830915
+ipAddress: 93.222.144.136
+lastlocation:
+  world: world
+  x: -67.2040043761977
+  y: 64.0
+  z: 66.71880774292259
+  yaw: -0.16155675
+  pitch: 6.0000124
+logoutlocation:
+  world: world
+  x: -58.962255107429726
+  y: 65.0
+  z: 230.92510072357737
+  yaw: 161.83734
+  pitch: 16.050014
+money: '593.80000000000000004'

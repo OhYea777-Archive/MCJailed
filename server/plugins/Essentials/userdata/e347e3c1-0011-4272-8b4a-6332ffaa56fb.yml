@@ -1,0 +1,25 @@
+lastAccountName: kci66
+timestamps:
+  login: 1432535727913
+  jail: 0
+  lastteleport: 1432321435829
+  logout: 1432536423264
+  mute: 0
+ipAddress: 124.171.32.142
+lastlocation:
+  world: world
+  x: -67.4824388292333
+  y: 64.0
+  z: 65.60887561689061
+  yaw: 4.78838
+  pitch: -3.4500003
+jailed: false
+logoutlocation:
+  world: world
+  x: -110.30000001192093
+  y: 65.0
+  z: 191.50956508372514
+  yaw: 271.48083
+  pitch: 90.0
+muted: false
+money: '361.0'

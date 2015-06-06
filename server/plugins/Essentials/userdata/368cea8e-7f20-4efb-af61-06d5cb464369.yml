@@ -1,0 +1,21 @@
+lastAccountName: Kyeharbor
+timestamps:
+  login: 1433330281456
+  lastteleport: 1432379189166
+  logout: 1433330342865
+ipAddress: 101.191.63.20
+lastlocation:
+  world: world
+  x: -166.47383613716374
+  y: 7.0
+  z: 348.82361206471313
+  yaw: -223.01746
+  pitch: 2.467863
+money: '23.39'
+logoutlocation:
+  world: world
+  x: -65.82554085735937
+  y: 65.0
+  z: 235.01877158716286
+  yaw: 276.94775
+  pitch: 2.467882

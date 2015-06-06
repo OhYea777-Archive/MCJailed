@@ -1,0 +1,40 @@
+group 'com.mcjailed'
+version '1.0-SNAPSHOT'
+
+buildscript {
+    repositories {
+        mavenCentral()
+
+        maven {
+            url 'http://ci.shadowvolt.com/plugin/repository/everything/'
+        }
+    }
+}
+
+subprojects {
+    apply plugin: 'java'
+
+    repositories {
+        mavenCentral()
+
+        maven {
+            url 'http://ci.shadowvolt.com/plugin/repository/everything/'
+        }
+    }
+
+    configurations {
+        provided
+
+        compile.extendsFrom provided
+    }
+
+    dependencies {
+        testCompile 'junit:junit:4.7'
+
+        provided 'com.comphenix.protocol:ProtocolLib:3.6.3-SNAPSHOT'
+        provided fileTree('../libs')
+    }
+
+    group 'com.mcjailed'
+    version '1.0-SNAPSHOT'
+}

@@ -1,0 +1,69 @@
+{
+  "prefix": "&8[&6MCJailed&8] ",
+  "rankup": "&eYou have just ranked up to &6%rank%&e!",
+  "broadcast": "&3%player%&b has just ranked up to &3%rank%&b!",
+  "notEnoughMoney": "&cYou need &4$%price%&c to rank up to &4%rank%&c!",
+  "economyError": "&cTransaction incomplete. Economy error. Please notify an Admin",
+  "canNotRankup": "&cYou are not able to rank up any further!",
+  "ranks": [
+    {
+      "group": "BlockD",
+      "price": 0
+    },
+    {
+      "group": "BlockC",
+      "price": 15000
+    },
+    {
+      "group": "BlockB",
+      "price": 40000
+    },
+    {
+      "group": "BlockA",
+      "price": 100000
+    },
+    {
+      "group": "Probation",
+      "price": 250000
+    },
+    {
+      "group": "Free",
+      "price": 600000
+    }
+  ],
+  "ranksGui": {
+    "title": "&6Ranks&8:",
+    "hasRank": {
+      "title": "&6Rank &8(&aUnlocked&8):&r %prefix%",
+      "lore": [
+        "&aRank cost &2%cost%",
+        "&eClick to be warped to &6%group%"
+      ],
+      "item": {
+        "material": "STAINED_CLAY",
+        "damage": 5
+      }
+    },
+    "currentRank": {
+      "title": "&6Rank &8(&bCurrent&8):&r %prefix%",
+      "lore": [
+        "&bRank cost &3%cost%",
+        "&eClick to be warped to &6%group%"
+      ],
+      "item": {
+        "material": "STAINED_CLAY",
+        "damage": 3
+      }
+    },
+    "rank": {
+      "title": "&6Rank &8(&cLocked&8):&r %prefix%",
+      "lore": [
+        "&cRank costs &4%cost%&c!"
+      ],
+      "item": {
+        "material": "STAINED_CLAY",
+        "damage": 14
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+lastAccountName: tekkit_kev
+timestamps:
+  login: 1433125021862
+  logout: 1433125817266
+  mute: 0
+  lastteleport: 1433122627665
+ipAddress: 108.200.248.95
+lastlocation:
+  world: City
+  x: 146.86297839927846
+  y: 64.0
+  z: -995.5015502719325
+  yaw: -274.05258
+  pitch: 28.350033
+logoutlocation:
+  world: world
+  x: -63.3373655025407
+  y: 65.0
+  z: 360.2877574253004
+  yaw: -219.7616
+  pitch: 3.0000408
+muted: false
+money: '2677.5'
+homes:
+  home:
+    world: world_the_end
+    x: 1504.2419054065908
+    y: 50.0
+    z: 17.936557075392624
+    yaw: 216.58899
+    pitch: 16.20013
+afk: false

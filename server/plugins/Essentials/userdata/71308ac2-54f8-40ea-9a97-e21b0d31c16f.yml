@@ -1,0 +1,36 @@
+lastAccountName: dillonto
+timestamps:
+  login: 1433341755368
+  logout: 1433341837680
+  lastteleport: 1433241199337
+  kits:
+    starter: 1433122286332
+    guard: 1432416219875
+    riot: 1431715660443
+    trguard: 1431843364422
+    guardfood: 1431843377975
+    pvp: 1432703264117
+    tools: 1432719997606
+    dungeon: 1433231431922
+ipAddress: 74.75.173.22
+lastlocation:
+  world: world
+  x: -271.88996691625056
+  y: 64.0
+  z: 508.83321389276017
+  yaw: -277.33203
+  pitch: 15.149778
+logoutlocation:
+  world: world
+  x: -271.88996691625056
+  y: 64.0
+  z: 508.83321389276017
+  yaw: -277.33203
+  pitch: 15.149778
+afk: false
+powertools:
+  '286':
+  - heal
+money: '11000.0'
+socialspy: true
+godmode: false

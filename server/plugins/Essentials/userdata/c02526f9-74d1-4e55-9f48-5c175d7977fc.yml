@@ -1,0 +1,29 @@
+lastAccountName: swimgirl38
+timestamps:
+  login: 1433210391646
+  logout: 1433210677632
+  kits:
+    riot: 1431715624588
+    trguard: 1432081299254
+    guardfood: 1431810854807
+  lastteleport: 1433210553382
+  jail: 0
+  mute: 0
+ipAddress: 50.88.12.138
+lastlocation:
+  world: world
+  x: -188.30000001192093
+  y: 60.0
+  z: 246.3410812450091
+  yaw: -61.80672
+  pitch: 6.955502
+logoutlocation:
+  world: world
+  x: -157.92103070653465
+  y: 65.0
+  z: 227.9142959427287
+  yaw: -167.4884
+  pitch: 54.617905
+money: '0.00'
+jailed: false
+muted: false

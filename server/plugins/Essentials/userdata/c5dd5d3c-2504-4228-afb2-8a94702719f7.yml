@@ -1,0 +1,25 @@
+lastAccountName: mastercreater24
+timestamps:
+  login: 1432947227302
+  logout: 1432951944573
+  lastteleport: 1432951451582
+  mute: 0
+  jail: 0
+ipAddress: 99.126.194.87
+lastlocation:
+  world: world
+  x: -148.4173219659622
+  y: 7.0
+  z: 348.83338021276097
+  yaw: 254.39154
+  pitch: 2.2504025
+money: '1873.5885000'
+logoutlocation:
+  world: world
+  x: 39.505150398509656
+  y: 65.0
+  z: 327.6880029527482
+  yaw: -79.662994
+  pitch: 28.500572
+muted: false
+jailed: false

@@ -1,0 +1,25 @@
+lastAccountName: Firey56
+timestamps:
+  login: 1432906581012
+  logout: 1432906602216
+  lastteleport: 1432546891788
+  jail: 0
+  mute: 0
+ipAddress: 92.5.248.202
+lastlocation:
+  world: world
+  x: -164.37740423545654
+  y: 7.0
+  z: 347.6746833856232
+  yaw: 91.42108
+  pitch: -0.44719133
+logoutlocation:
+  world: world
+  x: -215.19644088873156
+  y: 50.0
+  z: 220.70726999613996
+  yaw: -181.38599
+  pitch: 0.2643772
+money: '2759.005001000000000029'
+jailed: false
+muted: false

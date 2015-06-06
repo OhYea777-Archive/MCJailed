@@ -1,0 +1,14 @@
+dependencies {
+    compile project(':API')
+    compile 'org.reflections:reflections:0.9.9-RC1'
+}
+
+jar {
+    dependsOn configurations.runtime
+
+    from {
+        (configurations.runtime - configurations.provided).collect {
+            it.isDirectory() ? it : zipTree(it)
+        }
+    }
+}

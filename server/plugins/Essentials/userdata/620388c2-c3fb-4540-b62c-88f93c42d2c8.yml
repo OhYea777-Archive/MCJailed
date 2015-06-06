@@ -1,0 +1,21 @@
+lastAccountName: Dosu
+timestamps:
+  login: 1433112564177
+  lastteleport: 1432448512055
+  logout: 1433112597753
+ipAddress: 24.16.185.12
+lastlocation:
+  world: world
+  x: -78.27225859729279
+  y: 35.0
+  z: 265.05961759177694
+  yaw: -282.08984
+  pitch: 26.128963
+money: '3107.0'
+logoutlocation:
+  world: world
+  x: -154.23625350362417
+  y: 66.0
+  z: 186.66915164500364
+  yaw: 256.5927
+  pitch: 12.906007

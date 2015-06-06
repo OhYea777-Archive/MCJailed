@@ -1,0 +1,23 @@
+lastAccountName: Fadetawhite
+timestamps:
+  login: 1432971468232
+  logout: 1432971497540
+  mute: 0
+  lastteleport: 1432414418966
+ipAddress: 71.103.84.215
+lastlocation:
+  world: world
+  x: -59.46598904246273
+  y: 65.0
+  z: 233.09827352024277
+  yaw: -275.2229
+  pitch: 6.5315094
+logoutlocation:
+  world: world
+  x: 1.309991872178797
+  y: 65.0
+  z: 336.1796955479203
+  yaw: -255.76505
+  pitch: 2.4000986
+money: '99.993750000001000025'
+muted: false

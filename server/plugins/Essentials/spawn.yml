@@ -1,0 +1,148 @@
+spawns: 
+  default: 
+    world: world
+    x: -160.5
+    y: 38.0
+    z: -219.5
+    yaw: -180.15886
+    pitch: 0.7500036
+  admin: 
+    world: world
+    x: -156.5
+    y: 64.0
+    z: 149.5
+    yaw: -0.16171265
+    pitch: -0.74999547
+  blockc: 
+    world: world
+    x: -37.5
+    y: 64.0
+    z: 289.5
+    yaw: -270.1617
+    pitch: -0.8999845
+  blockd: 
+    world: world
+    x: -156.5
+    y: 64.0
+    z: 149.5
+    yaw: -0.16171265
+    pitch: -0.74999547
+  blockb: 
+    world: world
+    x: -255.49776051155698
+    y: 63.0
+    z: 289.49854090596165
+    yaw: 89.68829
+    pitch: -3.600011
+  blocka: 
+    world: world
+    x: -81.6005664703457
+    y: 65.5
+    z: 464.50865822697784
+    yaw: 88.638435
+    pitch: -2.4000041
+  owner: 
+    world: world
+    x: -156.5
+    y: 64.0
+    z: 149.5
+    yaw: -0.16171265
+    pitch: -0.74999547
+  trguard: 
+    world: world
+    x: -141.5
+    y: 57.0
+    z: 55.5
+    yaw: -270.16238
+    pitch: -1.3500078
+  prguard: 
+    world: world
+    x: -141.5
+    y: 57.0
+    z: 55.5
+    yaw: -270.16238
+    pitch: -1.3500078
+  guard: 
+    world: world
+    x: -141.5
+    y: 57.0
+    z: 55.5
+    yaw: -270.16238
+    pitch: -1.3500078
+  srguard: 
+    world: world
+    x: -141.5
+    y: 57.0
+    z: 55.5
+    yaw: -270.16238
+    pitch: -1.3500078
+  headguard: 
+    world: world
+    x: -141.5
+    y: 57.0
+    z: 55.5
+    yaw: -270.16238
+    pitch: -1.3500078
+  warden: 
+    world: world
+    x: -141.5
+    y: 57.0
+    z: 55.5
+    yaw: -270.16238
+    pitch: -1.3500078
+  chatmod: 
+    world: world
+    x: -274.5
+    y: 64.0
+    z: 509.5
+    yaw: 269.86777
+    pitch: -1.3500073
+  mod: 
+    world: world
+    x: -274.5
+    y: 64.0
+    z: 509.5
+    yaw: 269.86777
+    pitch: -1.3500073
+  "leadmod'": 
+    world: world
+    x: -156.5
+    y: 64.0
+    z: 149.5
+    yaw: -0.16171265
+    pitch: -0.74999547
+  leadmod: 
+    world: world
+    x: -274.5
+    y: 64.0
+    z: 509.5
+    yaw: 269.86777
+    pitch: -1.3500073
+  headmod: 
+    world: world
+    x: -274.5
+    y: 64.0
+    z: 509.5
+    yaw: 269.86777
+    pitch: -1.3500073
+  probation: 
+    world: City
+    x: 0.5
+    y: 42.0
+    z: 0.5
+    yaw: 179.84993
+    pitch: 2.550002
+  free: 
+    world: City
+    x: 0.5
+    y: 42.0
+    z: 0.5
+    yaw: 179.84993
+    pitch: 2.400002
+  donor: 
+    world: City
+    x: 135.5
+    y: 89.0
+    z: -950.5
+    yaw: 90.00002
+    pitch: 2.09999

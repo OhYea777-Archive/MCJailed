@@ -1,0 +1,30 @@
+lastAccountName: tinymon1
+timestamps:
+  login: 1433191343711
+  kits:
+    prguard: 1431997312117
+    riot: 1431732682054
+    trguard: 1431989153837
+    guardfood: 1431842434316
+  lastteleport: 1432950529658
+  logout: 1433191701888
+  jail: 0
+  mute: 0
+ipAddress: 172.89.35.9
+lastlocation:
+  world: world
+  x: -139.99690225593068
+  y: 57.0
+  z: 54.78734841841108
+  yaw: -95.84451
+  pitch: 2.9449654
+money: '1600.50'
+logoutlocation:
+  world: world
+  x: -155.96162842577374
+  y: 57.0
+  z: 55.596769469527324
+  yaw: 90.13794
+  pitch: 39.300014
+jailed: false
+muted: false

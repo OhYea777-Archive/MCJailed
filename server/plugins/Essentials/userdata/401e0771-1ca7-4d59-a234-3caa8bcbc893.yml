@@ -1,0 +1,20 @@
+lastAccountName: Occupy
+timestamps:
+  login: 1432075745969
+  lastteleport: 1432077085850
+  logout: 1432077128485
+ipAddress: 107.3.231.217
+lastlocation:
+  world: world
+  x: -98.64963319826428
+  y: 65.0
+  z: 76.5725322761512
+  yaw: -59.924747
+  pitch: 20.138266
+logoutlocation:
+  world: world
+  x: -155.43163734447398
+  y: 65.0
+  z: 178.39497659353995
+  yaw: -1.7857238
+  pitch: 4.1220384
