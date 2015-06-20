@@ -31,8 +31,8 @@ public class Rankup extends AbstractModule<RankupConfig> {
         this.config = config;
         this.handler = new RankupScoreboardHandler(this);
 
-        if (MCJailed.getModules().moduleExists("Scoreboard Manager")) {
-            ((ScoreboardManager) MCJailed.getModules().getModule("Scoreboard Manager")).registerScoreboardHandler(handler);
+        if (MCJailed.getModules().moduleExists(ScoreboardManager.class)) {
+            MCJailed.getModules().getModule(ScoreboardManager.class).registerScoreboardHandler(handler);
         }
 
         getCommandRegistry().registerCommandHandler(this);
@@ -48,8 +48,8 @@ public class Rankup extends AbstractModule<RankupConfig> {
     public void onDisable() {
         super.onDisable();
 
-        if (MCJailed.getModules().moduleExists("Scoreboard Manager")) {
-            ((ScoreboardManager) MCJailed.getModules().getModule("Scoreboard Manager")).unregisterScoreboardHandler(handler);
+        if (MCJailed.getModules().moduleExists(ScoreboardManager.class)) {
+            MCJailed.getModules().getModule(ScoreboardManager.class).unregisterScoreboardHandler(handler);
         }
 
         getCommandRegistry().deregisterCommandHandler(this);
@@ -64,7 +64,7 @@ public class Rankup extends AbstractModule<RankupConfig> {
 
     @Cmd(value = "ranks", aliases = { })
     public boolean onRanskupMenu(CommandSender sender, Command command, String label, String[] args) {
-        if (sender instanceof Player && new RankupPlayer((Player) sender).getCurrentRank() != null) RankupMenu.createFromPlayer(new RankupPlayer((Player) sender));
+        // if (sender instanceof Player && new RankupPlayer((Player) sender).getCurrentRank() != null) RankupMenu.createFromPlayer(new RankupPlayer((Player) sender));
 
         return true;
     }
